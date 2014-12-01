@@ -3,14 +3,14 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example.ESBPro</groupId>
   <artifactId>ESBPro</artifactId>
-  <version>1.1.0-SNAPSHOT</version>
+  <version>1.1.0</version>
   <packaging>pom</packaging>
   <name>ESBPro</name>
   <description>ESBPro</description>
 <parent>
     <groupId>com.example</groupId>
   <artifactId>MavenParentProject</artifactId>
-  <version>1.1.0-SNAPSHOT</version>
+  <version>1.1.0</version>
   </parent>
   <properties>
     <maven.test.skip>false</maven.test.skip>
