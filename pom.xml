@@ -12,8 +12,8 @@
     <module>MyCapp</module>
   </modules>
   <scm>
-    <connection>scm:svn:https://github.com/manoj-kumara/MavenParentProject.git</connection>
-    <developerConnection>scm:svn:https://github.com/manoj-kumara/MavenParentProject.git</developerConnection>
+    <connection>scm:git:https://github.com/manoj-kumara/MavenParentProject.git</connection>
+    <developerConnection>scm:git:https://github.com/manoj-kumara/MavenParentProject.git</developerConnection>
     <url>https://github.com/manoj-kumara/MavenParentProject.git</url>
   </scm>
 <distributionManagement>
