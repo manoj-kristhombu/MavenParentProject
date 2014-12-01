@@ -62,6 +62,16 @@
           <tagBase>https://github.com/manoj-kumara/MavenParentProject.git</tagBase>
         </configuration>
       </plugin>
+	<plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-deploy-plugin</artifactId>
+    </plugin>
+
     </plugins>
   </build>
+
+	<properties>
+                <project.scm.id>my-scm-server</project.scm.id>
+	 </properties>
+
 </project>
